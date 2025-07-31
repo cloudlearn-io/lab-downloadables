@@ -1,0 +1,43 @@
+Date,CustomerID,Service,PlanType,Region,InvoiceID,Amount
+2024-10-01,CUST-00123,Residential Solar Plan,Premium,California,INV-80101,189.45
+2024-11-01,CUST-00123,Residential Solar Plan,Premium,California,INV-81101,167.23
+2024-12-01,CUST-00123,Residential Solar Plan,Premium,California,INV-82101,198.67
+2024-10-01,CUST-00156,Battery Storage,Basic,Texas,INV-80102,125.99
+2024-11-01,CUST-00156,Battery Storage,Basic,Texas,INV-81102,89.45
+2024-12-01,CUST-00156,Battery Storage,Basic,Texas,INV-82102,134.56
+2024-10-01,CUST-00189,Residential Solar Plan,Net Metering,Ontario,INV-80103,67.23
+2024-11-01,CUST-00189,Residential Solar Plan,Net Metering,Ontario,INV-81103,34.12
+2024-12-01,CUST-00189,Residential Solar Plan,Net Metering,Ontario,INV-82103,45.78
+2024-10-01,CUST-00234,Smart Inverter,Premium,Alberta,INV-80104,245.67
+2024-11-01,CUST-00234,Smart Inverter,Premium,Alberta,INV-81104,256.89
+2024-12-01,CUST-00234,Smart Inverter,Premium,Alberta,INV-82104,289.34
+2024-10-01,CUST-00267,Residential Solar Plan,Basic,California,INV-80105,156.78
+2024-11-01,CUST-00267,Residential Solar Plan,Basic,California,INV-81105,145.23
+2024-12-01,CUST-00267,Residential Solar Plan,Basic,California,INV-82105,167.45
+2024-10-01,CUST-00298,Battery Storage,Premium,Texas,INV-80106,389.12
+2024-11-01,CUST-00298,Battery Storage,Premium,Texas,INV-81106,356.78
+2024-12-01,CUST-00298,Battery Storage,Premium,Texas,INV-82106,398.45
+2024-10-01,CUST-00321,Residential Solar Plan,Net Metering,California,INV-80107,92.34
+2024-11-01,CUST-00321,Residential Solar Plan,Net Metering,California,INV-81107,78.56
+2024-12-01,CUST-00321,Residential Solar Plan,Net Metering,California,INV-82107,89.12
+2024-10-01,CUST-00354,Smart Inverter,Basic,Ontario,INV-80108,178.90
+2024-11-01,CUST-00354,Smart Inverter,Basic,Ontario,INV-81108,165.43
+2024-12-01,CUST-00354,Smart Inverter,Basic,Ontario,INV-82108,187.67
+2024-10-01,CUST-00387,Residential Solar Plan,Premium,Alberta,INV-80109,267.45
+2024-11-01,CUST-00387,Residential Solar Plan,Premium,Alberta,INV-81109,234.67
+2024-12-01,CUST-00387,Residential Solar Plan,Premium,Alberta,INV-82109,278.90
+2024-10-01,CUST-00412,Battery Storage,Net Metering,Texas,INV-80110,334.56
+2024-11-01,CUST-00412,Battery Storage,Net Metering,Texas,INV-81110,298.34
+2024-12-01,CUST-00412,Battery Storage,Net Metering,Texas,INV-82110,345.67
+2024-09-01,CUST-00123,Residential Solar Plan,Premium,California,INV-79101,201.34
+2024-08-01,CUST-00123,Residential Solar Plan,Premium,California,INV-78101,215.67
+2024-09-01,CUST-00156,Battery Storage,Basic,Texas,INV-79102,143.21
+2024-08-01,CUST-00156,Battery Storage,Basic,Texas,INV-78102,156.78
+2024-09-01,CUST-00189,Residential Solar Plan,Net Metering,Ontario,INV-79103,56.89
+2024-08-01,CUST-00189,Residential Solar Plan,Net Metering,Ontario,INV-78103,72.45
+2024-09-01,CUST-00267,Residential Solar Plan,Basic,California,INV-79105,134.56
+2024-08-01,CUST-00267,Residential Solar Plan,Basic,California,INV-78105,178.90
+2024-09-01,CUST-00298,Battery Storage,Premium,Texas,INV-79106,367.89
+2024-08-01,CUST-00298,Battery Storage,Premium,Texas,INV-78106,345.23
+2024-09-01,CUST-00321,Residential Solar Plan,Net Metering,California,INV-79107,85.67
+2024-08-01,CUST-00321,Residential Solar Plan,Net Metering,California,INV-78107,98.34
